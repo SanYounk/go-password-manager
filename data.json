@@ -1,0 +1,12 @@
+{
+    "accounts": [
+        {
+            "login": "a@a.ru",
+            "password": "bzv7*jUiSfdf",
+            "url": "https://a.ru",
+            "createdAt": "2026-02-01T18:38:37.1051308+03:00",
+            "updatedAt": "2026-02-01T18:38:37.1051308+03:00"
+        }
+    ],
+    "updatedAt": "2026-02-01T18:38:37.1051308+03:00"
+}
